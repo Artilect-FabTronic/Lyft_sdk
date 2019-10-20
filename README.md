@@ -5,3 +5,7 @@ les fichiers doivents etre placés au même endroit que lors l'installation "pip
 Pour trouver ce chemin tapez help(lyft_dataset_sdk)
 
 Si ca ne marche pas posez une Issue
+
+Dans les Notebooks il y a besoin de télécharger les datas: 
+
+Installation: on verra me! 
