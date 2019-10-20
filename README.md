@@ -6,9 +6,7 @@ Pour trouver ce chemin tapez help(lyft_dataset_sdk)
 
 Si ca ne marche pas posez une Issue
 
-Dans les Notebooks il y a besoin de télécharger les datas: 
-
-Installation: on verra me! 
+Dans les Notebooks il y a besoin de télécharger les datas, et d'autres petits changement. 
 
 
 ok c'est vu.
