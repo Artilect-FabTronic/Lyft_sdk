@@ -9,3 +9,6 @@ Si ca ne marche pas posez une Issue
 Dans les Notebooks il y a besoin de télécharger les datas: 
 
 Installation: on verra me! 
+
+
+ok c'est vu.
